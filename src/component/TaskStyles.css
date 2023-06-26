@@ -1,0 +1,48 @@
+*{
+    background-color: #fefbd8;
+}
+
+
+.task{
+    position:absolute;
+    left:40%;
+    top:20%;
+
+   
+}
+
+input{
+    border: none;
+    outline: none;
+    border-bottom: solid black 2px;
+    height:30px;
+    width: 300px;
+    
+   
+}
+ul{
+    margin-left: -170px;
+    height:300px;
+    overflow-y: scroll;
+    
+}
+li{
+    
+    list-style:none;   
+ }
+.Dnone{
+ display: none;
+}
+
+.confirm{
+    list-style: none;
+}
+
+ label{
+    text-align: center;
+    margin-left: -120px;
+    font-size: xx-large;
+ }
+ .d-none{
+    display:none;
+ }
